@@ -38,9 +38,6 @@ In phpmyadmin you need to create three table in (mydb)<br/>
 
 
 
-In case of any Trouble email me at corpojasltd@gmail.com<br/>
-If you Like it Do give it a star<br/>
->............<br/>
 
 
 
